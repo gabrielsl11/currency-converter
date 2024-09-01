@@ -1,2 +1,1 @@
-# currency-converter
- 
+# Currency Converter
